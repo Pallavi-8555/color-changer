@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.canva{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 100px;
+    
+}
+h1{
+    text-align: center;
+    margin-top: 40px;
+}
+ .button{
+     border: 2px solid black;
+     width: 150px;
+     height: 150px;
+    margin: 20px;
+    cursor: pointer;
+}
+.button:hover {
+  background-color: white !important;
+}
+#grey{
+    background-color: grey;
+}
+#yellow{
+    background-color: yellow;
+}
+#blue{
+    background-color: blue;
+}
+#red{
+    background-color:red;
+} 
+ h2{
+    padding-top: 100px;
+    text-align: center;
+ }
